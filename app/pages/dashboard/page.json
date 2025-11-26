@@ -1,0 +1,20 @@
+{
+  "version": "3.4",
+  "type": "dashboard",
+  "title": "Dashboard",
+  "hideInSidebar": false,
+  "config": {
+    "withDateRangePicker": false,
+    "stats": [
+      {
+        "key": "stat_ykiq8s",
+        "fetchStrategy": "rawSqlQuery",
+        "type": "single",
+        "dataSource": "postgres_db_530qfy",
+        "title": "Users",
+        "sqlQuery": "SELECT count(*) FROM user;"
+      }
+    ],
+    "cards": []
+  }
+}

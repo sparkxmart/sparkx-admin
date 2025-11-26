@@ -1,0 +1,9 @@
+{
+  "menuPageOrder": [
+    "dashboard",
+    "users",
+    "orders",
+    "products",
+    "address"
+  ]
+}

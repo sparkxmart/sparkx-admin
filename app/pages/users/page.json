@@ -1,0 +1,11 @@
+{
+  "version": "3.4",
+  "type": "table",
+  "title": "Users",
+  "hideInSidebar": false,
+  "config": {
+    "dataSource": "postgres_db_530qfy",
+    "fetchStrategy": "databaseTable",
+    "table": "user"
+  }
+}
