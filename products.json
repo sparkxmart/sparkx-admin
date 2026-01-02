@@ -1,0 +1,1306 @@
+[
+    {
+        "id": "fdf4aedf-095c-4fe9-a0b2-c0f01c407e86",
+        "name": "Shivani's Curry Sauce Base",
+        "description": "hsvhjdsvchvchj",
+        "categories": [
+            "grocery"
+        ],
+        "brand": "Shivani",
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpLdH5iLuRMqbXnsSz5xZlIQBf72peK6aHT31G"
+        ],
+        "slug": "shivani-curry-suace-base",
+        "tags": null,
+        "basePrice": 9,
+        "comparePrice": 10,
+        "isActive": true,
+        "stock": 54,
+        "weight": "265g",
+        "createdAt": "2025-11-12T04:13:02.705Z",
+        "updatedAt": "2025-11-12T04:14:16.339Z"
+    },
+    {
+        "id": "ee3f24f5-c5f3-494d-8ec7-98ea84952c47",
+        "name": "SparkPass Membership",
+        "description": "Unlock exclusive benefits: 50% Off Delivery, VIP Support, and more.",
+        "categories": [
+            "service"
+        ],
+        "brand": "SparkX",
+        "currency": "CAD",
+        "images": [
+            "/images/spark-pass-card.png"
+        ],
+        "slug": "spark-pass-membership",
+        "tags": [
+            "membership",
+            "service"
+        ],
+        "basePrice": 49.99,
+        "comparePrice": 99.99,
+        "isActive": true,
+        "stock": 999995,
+        "weight": "50k",
+        "createdAt": "2025-12-26T05:18:40.037Z",
+        "updatedAt": "2025-12-26T06:21:15.484Z"
+    },
+    {
+        "id": "ec3283c6-4839-4d6a-8a2d-acbd1ced0276",
+        "name": "Organic Turmeric Powder",
+        "brand": "Ingrano",
+        "description": "ano Organic Turmeric Powder - Pure and Natural Spice for Health and Culinary Delight\nExperience the vibrant flavor and numerous health benefits of Ingrano Organic Turmeric Powder, a pure and natural spice that enriches both your dishes and your well-being. Sourced from the finest organic turmeric roots, our powder is a testament to quality and purity. \nTurmeric is renowned for its anti-inflammatory and antioxidant properties, making it a valuable addition to your daily diet. Our organic turmeric powder is free from additives and preservatives, ensuring that you receive only the purest and most potent form of this beneficial spice.\nEnhance the flavor and aroma of your culinary creations with the warm, earthy notes of Ingrano Organic Turmeric Powder. From vibrant curries and flavorful rice dishes to golden lattes and refreshing smoothies, the possibilities are endless with this versatile spice.\n•    Pure and Natural: Made from the finest organic turmeric roots, free from additives and preservatives.\n•    Health Benefits: Rich in anti-inflammatory and antioxidant properties for overall well-being.\n•    Versatile Spice: Enhances the flavor and aroma of a wide range of culinary dishes.\n•    Premium Quality: Packed with care to preserve freshness and potency.\n𝗜𝗡𝗚𝗥𝗘𝗗𝗜𝗘𝗡𝗧𝗦:\nOrganic Turmeric Powder\nALLERGEN INFORMATION:\nPacked in A Facility That Also handles Wheat, Barley (Gluten), Mustard, and Sesame.\n𝗦𝗛𝗘𝗟𝗙 𝗟𝗜𝗙𝗘\n12 Months\n𝗖𝗢𝗨𝗡𝗧𝗥𝗬 𝗢𝗙 𝗢𝗥𝗜𝗚𝗜𝗡:\nIndia\n",
+        "categories": [
+            "grocery"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpiaccpP73EDGOFYpuXjT7rANvIQWy28gVoJKR"
+        ],
+        "slug": "ingrano-turmeric-powder-100g",
+        "tags": [
+            "100% Organic"
+        ],
+        "basePrice": 4.99,
+        "comparePrice": 5.99,
+        "isActive": true,
+        "stock": 234,
+        "weight": "100gm",
+        "createdAt": "2025-11-12T12:51:10.979Z",
+        "updatedAt": "2025-11-18T07:06:51.506Z"
+    },
+    {
+        "id": "ccbef1e4-8d67-46a2-b34f-11dec4280b81",
+        "name": "Rose Water\nCertified Organic Rose Water",
+        "description": "100% pure, certified organic Rose Water that hydrates, tones, and refreshes skin for a naturally radiant glow.\n•\tCertified Organic & 100% Pure\n•\tInstant Hydration & Skin Refresh\n•\tBalances & Tones the Skin\n•\tCalms Redness & Irritation\n•\tMulti-Purpose Beauty Essential\n",
+        "skin type": "All Skin",
+        "brand": "refreshBotanicals",
+        "categories": [
+            "cosmetics"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1Nqpoee6TVisfvtm4KchigO8Z19qUy3paC5Ijx6w"
+        ],
+        "slug": "rb-rose-water-90mL",
+        "tags": [
+            "Certified Organic"
+        ],
+        "basePrice": 17.99,
+        "comparePrice": 18.99,
+        "isActive": true,
+        "stock": 342,
+        "size": "90 ML | 3.04 FL OZ",
+        "createdAt": "2025-11-12T14:18:21.782Z",
+        "updatedAt": "2025-11-12T14:18:34.040Z"
+    },
+    {
+        "id": "cbb7e6bd-0bd1-4ddd-98c1-f08ae0a81c46",
+        "name": "Organic Masoor Dal",
+        "description": null,
+        "brand": "ingrano",
+        "categories": [
+            "grocery"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpKfNa0x6MZYo5KphUf8AVzw14IOnt7PEkiCJR"
+        ],
+        "slug": "ingrano-masoor-dal-2lb",
+        "tags": [
+            "Organic"
+        ],
+        "basePrice": 6.99,
+        "comparePrice": 7.99,
+        "isActive": true,
+        "weight": "2lb",
+        "stock": 129,
+        "createdAt": "2025-11-12T12:48:33.377Z",
+        "updatedAt": "2025-11-18T07:06:51.506Z"
+    },
+    {
+        "id": "",
+        "name": "Organic Fenugreek Seeds",
+        "brand": "ingrano",
+        "description": "Ingrano Organic Fenugreek Seeds - Pure and Aromatic Spice for Flavorful Cooking and Health Benefits\nExperience the rich flavor and numerous health benefits of Ingrano Organic Fenugreek Seeds, pure and aromatic seeds that enhance both the taste of your dishes and your well-being. Sourced from the finest organic fenugreek plants, our seeds are a testament to quality and purity.\nFenugreek seeds are celebrated for their digestive properties and their ability to support overall health, making them a valuable addition to your daily diet. Our organic fenugreek seeds are free from additives and preservatives, ensuring that you receive only the purest and most potent form of this beneficial spice.\nEnhance the flavor and aroma of your culinary creations with the warm, nutty notes of Ingrano Organic Fenugreek Seeds. \n•    Pure and Aromatic: Made from the finest organic fenugreek plants, free from additives and preservatives.\n•    Health Benefits: Rich in digestive properties and supports overall health for well-being.\n•    Numerous Culinary Uses: Perfect for curries, stews, sauces, pickles, and more.\n•    Premium Quality: Packed with care to preserve freshness and potency.\n•    Certified Organic: Ensures the highest standards of purity and quality.\n𝗜𝗡𝗚𝗥𝗘𝗗𝗜𝗘𝗡𝗧𝗦:\nOrganic Fenugreek Seed\nALLERGEN INFORMATION:\nPacked in A Facility That Also handles Wheat, Barley (Gluten), Mustard, and Sesame.\n𝗦𝗛𝗘𝗟𝗙 𝗟𝗜𝗙𝗘\n12 Months\n𝗖𝗢𝗨𝗡𝗧𝗥𝗬 𝗢𝗙 𝗢𝗥𝗜𝗚𝗜𝗡:\nIndia",
+        "categories": [
+            "grocery"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpKfNa0x6MZYo5KphUf8AVzw14IOnt7PEkiCJR"
+        ],
+        "slug": "ingrano-fenugreek-seeds",
+        "tags": [
+            "Organic"
+        ],
+        "basePrice": 2.99,
+        "comparePrice": 3.99,
+        "isActive": true,
+        "weight": "200g",
+        "stock": 129,
+        "createdAt": "2025-11-12T12:48:33.377Z",
+        "updatedAt": "2025-11-18T07:06:51.506Z"
+    },
+    {
+        "id": "c88845ce-67ff-47fa-bea3-306ee916048d",
+        "name": "Organic Masoor Dal Split",
+        "brand": "ingrano",
+        "description": null,
+        "categories": [
+            "grocery"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpVXGSZtdHIeqYxW6Fshnd4faZV7CMLS8RzG1J"
+        ],
+        "slug": "ingrano-masoor-dal-split",
+        "tags": null,
+        "basePrice": 6.99,
+        "comparePrice": 7.99,
+        "isActive": true,
+        "stock": 231,
+        "weight": "2lb",
+        "createdAt": "2025-11-12T13:56:14.755Z",
+        "updatedAt": "2025-11-18T07:06:51.506Z"
+    },
+    {
+        "name": "Organic Mustard Seeds",
+        "description": null,
+        "brand": "ingrano",
+        "categories": [
+            "grocery"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpVXGSZtdHIeqYxW6Fshnd4faZV7CMLS8RzG1J"
+        ],
+        "slug": "ingrano-organic-mustard-seeds",
+        "tags": null,
+        "basePrice": 2.99,
+        "comparePrice": 3.99,
+        "isActive": true,
+        "stock": 231,
+        "weight": "200g",
+        "createdAt": "2025-11-12T13:56:14.755Z",
+        "updatedAt": "2025-11-18T07:06:51.506Z"
+    },
+    {
+        "name": "Organic Cloves Whole",
+        "brand": "ingrano",
+        "description": "Ingrano Organic Whole Cloves (Premium) - Aromatic Spice for Flavorful Cooking and Health Benefits\nEnhance the flavor and aroma of your dishes with Ingrano Organic Whole Cloves (Premium), an aromatic spice that adds depth to your culinary creations. Sourced from the finest organic farms, our cloves are hand-selected for their premium quality, ensuring the highest standards of purity and flavor.\nClove is celebrated for its warm, sweet, and slightly bitter flavor, as well as its numerous health benefits. Rich in antioxidants and anti-inflammatory properties, cloves are a valuable addition to your daily diet.\nFrom savory curries and stews to aromatic rice dishes and baked goods, the culinary possibilities with Ingrano Organic Whole Cloves are endless.\n•    Aromatic Spice: Adds depth and flavor to a variety of dishes.\n•    Rich in Nutrients: Packed with antioxidants and anti-inflammatory properties for overall well-being.\n•    Premium Quality: Hand-selected for their superior quality and flavor.\n•    Certified Organic: Sourced from the finest organic farms and free from additives and preservatives.\n•    Customer Satisfaction Guaranteed: Backed by our commitment to excellence and your well-being.\n𝗜𝗡𝗚𝗥𝗘𝗗𝗜𝗘𝗡𝗧𝗦:\nOrganic Whole Cloves (Premium)  \nALLERGEN INFORMATION:\nPacked in A Facility That Also handles Wheat, Barley (Gluten), Mustard, and Sesame.\n𝗦𝗛𝗘𝗟𝗙 𝗟𝗜𝗙𝗘\n12 Months\n𝗖𝗢𝗨𝗡𝗧𝗥𝗬 𝗢𝗙 𝗢𝗥𝗜𝗚𝗜𝗡:\nIndia",
+        "categories": [
+            "grocery"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpVXGSZtdHIeqYxW6Fshnd4faZV7CMLS8RzG1J"
+        ],
+        "slug": "ingrano-organic-cloves-whole",
+        "tags": null,
+        "basePrice": 9.99,
+        "comparePrice": 10.99,
+        "isActive": true,
+        "stock": 231,
+        "weight": "200g",
+        "createdAt": "2025-11-12T13:56:14.755Z",
+        "updatedAt": "2025-11-18T07:06:51.506Z"
+    },
+    {
+        "id": "c87fbca9-1a9b-4d23-9e7a-814cf262ac7b",
+        "brand": "ingrano",
+        "name": "Organic Black Chana",
+        "description": null,
+        "categories": [
+            "grocery"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpxajPTyVj4c0XvDYNkl3T7xbgaRnqBICEdzsJ"
+        ],
+        "slug": "ingrano-black-chana-2lb",
+        "tags": null,
+        "basePrice": 6.99,
+        "comparePrice": 7.99,
+        "isActive": true,
+        "weight": "2lb",
+        "stock": 235,
+        "createdAt": "2025-11-12T14:12:00.409Z",
+        "updatedAt": "2025-11-18T07:06:51.506Z"
+    },
+    {
+        "name": "Organic Green Cardamom Whole",
+        "brand": "ingrano",
+        "description": null,
+        "categories": [
+            "grocery"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpxajPTyVj4c0XvDYNkl3T7xbgaRnqBICEdzsJ"
+        ],
+        "slug": "ingrano-green-cardamom",
+        "tags": null,
+        "basePrice": 14.99,
+        "comparePrice": 15.99,
+        "isActive": true,
+        "weight": "200g",
+        "stock": 235,
+        "createdAt": "2025-11-12T14:12:00.409Z",
+        "updatedAt": "2025-11-18T07:06:51.506Z"
+    },
+    {
+        "name": "Organic Cinnamon Bark - Cassia",
+        "brand": "ingrano",
+        "description": null,
+        "categories": [
+            "grocery"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpxajPTyVj4c0XvDYNkl3T7xbgaRnqBICEdzsJ"
+        ],
+        "slug": "ingrano-cinnamon-bark-cassia",
+        "tags": null,
+        "basePrice": 4.99,
+        "comparePrice": 5.99,
+        "isActive": true,
+        "weight": "200g",
+        "stock": 235,
+        "createdAt": "2025-11-12T14:12:00.409Z",
+        "updatedAt": "2025-11-18T07:06:51.506"
+    },
+    {
+        "name": "Organic Dry Curry Leaves",
+        "brand": "ingrano",
+        "description": null,
+        "categories": [
+            "grocery"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpxajPTyVj4c0XvDYNkl3T7xbgaRnqBICEdzsJ"
+        ],
+        "slug": "ingrano-dry-curry-leaves",
+        "tags": null,
+        "basePrice": 4.99,
+        "comparePrice": 5.99,
+        "isActive": true,
+        "weight": "200g",
+        "stock": 235,
+        "createdAt": "2025-11-12T14:12:00.409Z",
+        "updatedAt": "2025-11-18T07:06:51.506"
+    },
+    {
+        "name": "Organic Mace (Jawitri)",
+        "brand": "ingrano",
+        "description": null,
+        "categories": [
+            "grocery"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpxajPTyVj4c0XvDYNkl3T7xbgaRnqBICEdzsJ"
+        ],
+        "slug": "ingrano-mace-jawitri",
+        "tags": null,
+        "basePrice": 13.99,
+        "comparePrice": 14.99,
+        "isActive": true,
+        "weight": "200g",
+        "stock": 235,
+        "createdAt": "2025-11-12T14:12:00.409Z",
+        "updatedAt": "2025-11-18T07:06:51.506"
+    },
+    {
+        "name": "Organic Coriander Seeds",
+        "brand": "ingrano",
+        "description": "Ingrano Organic Coriander Seeds - Pure and Aromatic Spice for Flavorful Cooking and Health Benefits\nExperience the delightful flavor and numerous health benefits of Ingrano Organic Coriander Seeds, pure and aromatic seeds that enhance both the taste of your dishes and your well-being. Sourced from the finest organic coriander plants, our seeds are a testament to quality and purity.\nCoriander seeds are celebrated for their antioxidant properties and their ability to aid digestion, making them a valuable addition to your daily diet. Our organic coriander seeds are free from additives and preservatives, ensuring that you receive only the purest and most potent form of this beneficial spice.\nEnhance the flavor and aroma of your culinary creations with the warm, citrusy notes of Ingrano Organic Coriander Seeds. From savory curries and marinades to refreshing chutneys and salads, the possibilities are endless with these versatile seeds.\nIngrano Organic Coriander Seeds are the perfect choice for health-conscious consumers who demand nothing but the best. Add a sprinkle of goodness to your life with our pure and aromatic coriander seeds.\n•    Pure and Aromatic: Made from the finest organic coriander plants, free from additives and preservatives.\n•    Health Benefits: Rich in antioxidants and aids digestion for overall well-being.\n•    Premium Quality: Packed with care to preserve freshness and potency.\n•    Certified Organic: Ensures the highest standards of purity and quality.\n•    Customer Satisfaction Guaranteed: Backed by our commitment to excellence and your well-being.\n𝗜𝗡𝗚𝗥𝗘𝗗𝗜𝗘𝗡𝗧𝗦:\nOrganic Cumin, Organic Coriander, Organic Cardamom, Organic Black pepper, Organic Clove, Organic Nutmeg, Organic Fennel, Organic Mace.\nALLERGEN INFORMATION:\nPacked in A Facility That Also handles Wheat, Barley (Gluten), Mustard, and Sesame.\n𝗦𝗛𝗘𝗟𝗙𝗟𝗜𝗙𝗘\n12 Months\n𝗖𝗢𝗨𝗡𝗧𝗥𝗬 𝗢𝗙 𝗢𝗥𝗜𝗚𝗜𝗡:\nIndia\n",
+        "categories": [
+            "grocery"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpxajPTyVj4c0XvDYNkl3T7xbgaRnqBICEdzsJ"
+        ],
+        "slug": "ingrano-mace-jawitri",
+        "tags": null,
+        "basePrice": 4.99,
+        "comparePrice": 5.99,
+        "isActive": true,
+        "weight": "100g",
+        "stock": 235,
+        "createdAt": "2025-11-12T14:12:00.409Z",
+        "updatedAt": "2025-11-18T07:06:51.506"
+    },
+    {
+        "name": "Bajra Flour",
+        "brand": "ingrano",
+        "description": null,
+        "categories": [
+            "grocery"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpxajPTyVj4c0XvDYNkl3T7xbgaRnqBICEdzsJ"
+        ],
+        "slug": "ingrano-dry-curry-leaves",
+        "tags": null,
+        "basePrice": 4.99,
+        "comparePrice": 5.99,
+        "isActive": true,
+        "weight": "2lb",
+        "stock": 235,
+        "createdAt": "2025-11-12T14:12:00.409Z",
+        "updatedAt": "2025-11-18T07:06:51.506"
+    },
+    {
+        "id": "c74d3365-29bb-4a70-ab0d-dd623a777425",
+        "brand": "refreshBotanicals",
+        "name": "Rosehip Oil\nCold Pressed & Certified Organic",
+        "description": "100% pure, cold-pressed, and certified organic Rosehip oil that deeply hydrates, brightens, and repairs skin for a youthful glow.\n•\tCertified Organic & Cold-Pressed\n•\tFades Dark Spots & Scars\n•\tDeeply Hydrates & Restores Glow\n•\tBoosts Collagen & Skin Elasticity\n•\tFast-Absorbing & Non-Greasy",
+        "Skin Type": "All Skin Types",
+        "categories": [
+            "cosmetics",
+            "oils"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpSqtGwdoMCIUfQJsB28NRFvuPmopiVEthDLKA"
+        ],
+        "slug": "rb-rosehip-oil-50ml",
+        "tags": null,
+        "basePrice": 23.99,
+        "comparePrice": 24.99,
+        "size": "50 ML | 1.69 FL OZ",
+        "isActive": true,
+        "stock": 129,
+        "createdAt": "2025-11-12T04:25:43.696Z",
+        "updatedAt": "2025-11-12T04:26:05.570Z"
+    },
+    {
+        "id": "b57c2186-e865-4e76-8fbd-e1e100adb9aa",
+        "brand": "ingrano",
+        "name": "Organic Rice Flour",
+        "description": null,
+        "categories": [],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1Nqpr9uEn5KVX1pyeowKBJU0b4ETSa9CDsPW8QMI"
+        ],
+        "slug": "ingrano-rice-flour-2lb",
+        "tags": null,
+        "basePrice": 4.99,
+        "comparePrice": 5.99,
+        "isActive": true,
+        "stock": 200,
+        "weight": "2lb",
+        "createdAt": "2025-11-12T01:40:33.186Z",
+        "updatedAt": "2025-11-18T07:06:51.506Z"
+    },
+    {
+        "id": "b261eb06-f24f-4faa-a2dd-672c97270d4b",
+        "name": "Organic Green Moong Dal Whole",
+        "brand": "ingrano",
+        "description": null,
+        "categories": [],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpH6bZXHortaWiy7cdoSsPfqlXuO9YVpnBbKj2"
+        ],
+        "slug": "ingrano-green-moong-whole-2lb",
+        "tags": null,
+        "basePrice": 6.99,
+        "comparePrice": 7.99,
+        "isActive": true,
+        "weight": "2lb",
+        "stock": 178,
+        "createdAt": "2025-11-12T01:15:41.236Z",
+        "updatedAt": "2025-11-18T07:06:51.506Z"
+    },
+    {
+        "id": "a7a937c0-843a-4392-bdc8-1afc074087c8",
+        "name": "Organic Ginger Powder",
+        "brand": "ingrano",
+        "description": "Ingrano Organic Ginger Powder - Pure and Aromatic Spice for Culinary Excellence and Health Benefits\nDiscover the exceptional flavor and numerous health benefits of Ingrano Organic Ginger Powder, a pure and aromatic spice that adds depth and warmth to your culinary creations. Sourced from the finest organic ginger roots, our powder is a testament to quality and purity.\nGinger is revered for its anti-inflammatory and digestive properties, making it a valuable addition to your daily diet. Our organic ginger powder is free from additives and preservatives, ensuring that you receive only the purest and most potent form of this beneficial spice.\nEnhance the flavor and aroma of your dishes with the zesty, peppery notes of Ingrano Organic Ginger Powder. From savory curries and marinades to sweet treats and refreshing beverages, the possibilities are endless with this versatile spice.\n•    Pure and Aromatic: Made from the finest organic ginger roots, free from additives and preservatives.\n•    Health Benefits: Rich in anti-inflammatory and digestive properties for overall well-being.\n•    Numerous Culinary Uses: Perfect for curries, marinades, baked goods, beverages, and more.\n•    Premium Quality: Packed with care to preserve freshness and potency.\n•    Certified Organic: Ensures the highest standards of purity and quality.\n𝗜𝗡𝗚𝗥𝗘𝗗𝗜𝗘𝗡𝗧𝗦:\nOrganic Ginger Powder\nALLERGEN INFORMATION:\nPacked in A Facility That Also handles Wheat, Barley (Gluten), Mustard, and Sesame.\n𝗦𝗛𝗘𝗟𝗙 𝗟𝗜𝗙𝗘\n12 Months\n𝗖𝗢𝗨𝗡𝗧𝗥𝗬 𝗢𝗙 𝗢𝗥𝗜𝗚𝗜𝗡:\nIndia\n",
+        "categories": [
+            "grocery"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpcOxMQrNSgGZJqFIilteVW0YwLO3mMCvsn6Ah"
+        ],
+        "slug": "ingrano-ginger-powder-100g",
+        "tags": [
+            "100% Organic"
+        ],
+        "basePrice": 5.99,
+        "comparePrice": 6.99,
+        "weight": "100g",
+        "isActive": true,
+        "stock": 100,
+        "createdAt": "2025-11-12T01:06:40.047Z",
+        "updatedAt": "2025-11-18T07:06:51.506Z"
+    },
+    {
+        "id": "94c39d9b-3ad9-4f20-82a9-5858850d24d7",
+        "name": "Organic Red Chilli Powder",
+        "brand": "ingrano",
+        "description": "•\tIngrano Organic Red Chilli Powder - Pure and Spicy Spice for Flavorful Cooking and Health Benefits\n•\tAdd a punch of flavor and numerous health benefits to your dishes with Ingrano Organic Red Chilli Powder, a pure and spicy spice that elevates both the taste of your recipes and your well-being. Sourced from the finest organic red chillies, our powder is a testament to quality and purity.\n•\tRed chilli powder is celebrated for its antioxidant properties and its ability to boost metabolism, making it a valuable addition to your daily diet. Our organic red chilli powder is free from additives and preservatives, ensuring that you receive only the purest and most potent form of this beneficial spice.\n•\tEnhance the flavour and aroma of your culinary creations with the bold, fiery notes of Ingrano Organic Red Chilli Powder. From spicy curries and marinades to zesty sauces and snacks, the possibilities are endless with this versatile spice.\n•\tPacked with care to preserve freshness and quality, Ingrano Organic Red Chilli Powder is the perfect choice for health-conscious consumers who demand nothing but the best. Add a kick of goodness to your life with our pure and spicy red chilli powder.\n•\t\n•    Pure and Spicy: Made from the finest organic red chillies, free from additives and preservatives.\n•    Health Benefits: Rich in antioxidants and boosts metabolism for overall well-being.\n•    Premium Quality: Packed with care to preserve freshness and potency.\n•    Certified Organic: Ensures the highest standards of purity and quality.\n•\t𝗜𝗡𝗚𝗥𝗘𝗗𝗜𝗘𝗡𝗧𝗦:\nOrganic Red Chilli Powder\n•\tALLERGEN INFORMATION:\nPacked in A Facility That Also handles Wheat, Barley (Gluten), Mustard, and Sesame.\n•\t𝗦𝗛𝗘𝗟𝗙𝗟𝗜𝗙𝗘\n12 Months\n•\t𝗖𝗢𝗨𝗡𝗧𝗥𝗬 𝗢𝗙 𝗢𝗥𝗜𝗚𝗜𝗡:\nIndia\n",
+        "categories": [
+            "grocery"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpNgBmf7YTrYoBeIQdA504i7zEPwWf9bkxvDgO"
+        ],
+        "slug": "ingrano-red-chilli-powder-100g",
+        "tags": [
+            "100% Organic"
+        ],
+        "basePrice": 5.99,
+        "comparePrice": 6.99,
+        "isActive": true,
+        "stock": 170,
+        "weight": "100g",
+        "createdAt": "2025-11-12T01:09:41.941Z",
+        "updatedAt": "2025-11-18T07:06:51.506Z"
+    },
+    {
+        "id": "75522134-f7a5-4079-abee-19ec45bafff9",
+        "name": "Oleajoy Extra Virgin Olive Oil 1L",
+        "brand": "oleajoy",
+        "description": "The love and passion for the olive oil tree, inherited generation after generation from father to son, is shown in our traditional harvest methods and our meticulous extraction process. This ? green gold ? born in Moknine, in the Sahel of Tunisia, is the fruit of our unique expertise which is fully focused on quality and taste we bring to your table. A taste to be joyfully and passionately savored.",
+        "categories": [
+            "grocery",
+            "oils"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1Nqp090eTP2GvlgYi6wFrkUBq9OuH085M1JmAobh"
+        ],
+        "slug": "oj-olive-oil-1L",
+        "tags": [
+            "Organic"
+        ],
+        "basePrice": 19.99,
+        "comparePrice": 25.99,
+        "isActive": true,
+        "stock": 300,
+        "createdAt": "2025-11-12T12:40:15.918Z",
+        "updatedAt": "2025-11-12T12:42:39.103Z"
+    },
+    {
+        "id": "74bec453-ce1a-4dd7-98ee-ea27a153b3e7",
+        "brand": "shivani",
+        "name": "Shivani's Paneer Butter Sauce Base",
+        "description": null,
+        "categories": [],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpyNXE6ElZ4tFrd6X9LW7hCIa81u2DOJKvNVQc"
+        ],
+        "slug": "shivani-paneer-butter-sauce-base-265g",
+        "tags": null,
+        "basePrice": 9.99,
+        "comparePrice": 11.99,
+        "isActive": true,
+        "weight": "265g",
+        "stock": 234,
+        "createdAt": "2025-11-12T01:57:31.692Z",
+        "updatedAt": "2025-11-12T04:14:23.212Z"
+    },
+    {
+        "id": "748093a2-a6c8-40f7-8602-1f89d9a642ba",
+        "brand": "oleajoy",
+        "name": "Oleajoy Extra Virgin Olive Oil 500mL",
+        "description": null,
+        "categories": [
+            "grocery",
+            "oils"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1Nqp5VVdALVQ4LpJejdRErZCObtBPhyQU9i6xGuA"
+        ],
+        "slug": "oj-olive-oil-500mL",
+        "tags": [
+            "Organic"
+        ],
+        "basePrice": 11.99,
+        "comparePrice": 13.99,
+        "isActive": true,
+        "stock": 364,
+        "createdAt": "2025-11-12T12:42:12.797Z",
+        "updatedAt": "2025-11-12T12:40:22.951Z"
+    },
+    {
+        "id": "720a1ba8-a0c2-4378-89b8-0a867314e4e5",
+        "brand": "ingrano",
+        "name": "Organic Triphala Powder",
+        "description": "Organic Triphala Powder 100g",
+        "categories": [
+            "grocery"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpDrg6fyeu3q8jEe6rmlZJXYw5MR2cyWPaGiBF"
+        ],
+        "slug": "ingrano-triphala-powder-100g",
+        "tags": [
+            "100% Organic"
+        ],
+        "basePrice": 8.99,
+        "comparePrice": 9.99,
+        "isActive": true,
+        "stock": 150,
+        "weight": "100g",
+        "createdAt": "2025-11-12T01:06:40.047Z",
+        "updatedAt": "2025-11-18T07:04:22.447Z"
+    },
+    {
+        "id": "6329a08d-4db5-4475-a607-7574853f4471",
+        "brand": "milkyMist",
+        "name": "MilkyMist Processed Cheese Block",
+        "description": null,
+        "categories": [
+            "dairy-products"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpPeYpyGAL5lXKv489kGfJ0SCzaWuyEiBrgh1I"
+        ],
+        "slug": "milkymist-cheese-block-500g",
+        "tags": [
+            "Rich in Protein"
+        ],
+        "basePrice": 15.99,
+        "comparePrice": 17.99,
+        "isActive": true,
+        "stock": 540,
+        "createdAt": "2025-11-12T14:15:19.958Z",
+        "updatedAt": "2025-11-12T14:12:06.397Z"
+    },
+    {
+        "id": "5ac0ffb4-cdf4-4d28-b442-9e950fc5c7ab",
+        "brand": "refreshBotanicals",
+        "name": "Men Detox Facial Wash",
+        "description": "A powerful detoxifying facial wash designed for men, enriched with Bamboo Charcoal and Rooibos Tea to deeply cleanse, control oil, and refresh the skin.\n•\tDeep Detox & Pore Purification\n•\tControls Oil Without Over-Drying\n•\tRooibos Tea Antioxidants Protect Skin\n•\tEnergizing & Refreshing Scent\n•\tGentle Yet Effective Daily Cleanser\n",
+        "Skin Type": "Oily skin",
+        "Size": "100 ML | 3.38 FL OZ",
+        "categories": [
+            "cosmetics"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpBFoTTBnhdaQyuwT4zHoZDvOstq1GX8rFRlNL"
+        ],
+        "slug": "rb-detox-facial-wash-100mL",
+        "tags": null,
+        "basePrice": 16.99,
+        "comparePrice": 17.99,
+        "isActive": true,
+        "stock": 333,
+        "createdAt": "2025-11-12T14:20:36.203Z",
+        "updatedAt": "2025-11-12T14:18:56.359Z"
+    },
+    {
+        "name": "Oil Balancing Facial Cleanser\nWith Aloe & Cucumber",
+        "brand": "refreshBotanicals",
+        "description": "A sulfate-free cleanser that gently removes excess oil, impurities, and makeup while balancing and hydrating the skin with Aloe Vera and Cucumber.\n•\tCertified Organic by Ecocert Cosmos\n•\tGently Cleanses Without Stripping\n•\tBalances Oil & Controls Shine\n•\tHydrates & Soothes Skin\n•\tNon-Drying, Lightweight & Gentle\n",
+        "Skin Type": "Oily & Acne-prone skin",
+        "Size": "100 ML | 3.38 FL OZ",
+        "categories": [
+            "cosmetics"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpBFoTTBnhdaQyuwT4zHoZDvOstq1GX8rFRlNL"
+        ],
+        "slug": "rb-oil-balancing-facial-cleanser",
+        "tags": null,
+        "basePrice": 19.99,
+        "comparePrice": 20.99,
+        "isActive": true,
+        "stock": 333,
+        "createdAt": "2025-11-12T14:20:36.203Z",
+        "updatedAt": "2025-11-12T14:18:56.359Z"
+    },
+    {
+        "name": "Hydrating Facial Cleanser\nWith Cornflower & Cucumber",
+        "brand": "refreshBotanicals",
+        "description": "A sulfate-free hydrating cleanser infused with Cornflower and Cucumber to gently cleanse, refresh, and maintain the skin’s natural moisture balance.\n•\tCertified Organic by Ecocert Cosmos\n•\tDeeply Hydrates While Cleansing\n•\tGentle & Sulfate-Free Formula\n•\tSoothes & Calms Sensitive Skin\n•\tMaintains Healthy Skin Barrier\n",
+        "Skin Type": "Dry & Sensitive Skin",
+        "Size": "100 ML | 3.38 FL OZ",
+        "categories": [
+            "cosmetics"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpBFoTTBnhdaQyuwT4zHoZDvOstq1GX8rFRlNL"
+        ],
+        "slug": "rb-hydrating-facial-cleanser-with-cornflower-&-cucumber",
+        "tags": null,
+        "basePrice": 19.99,
+        "comparePrice": 20.99,
+        "isActive": true,
+        "stock": 333,
+        "createdAt": "2025-11-12T14:20:36.203Z",
+        "updatedAt": "2025-11-12T14:18:56.359Z"
+    },
+    {
+        "name": "Brightening Facial Cleanser\nWith Lemon & Cucumber",
+        "brand": "refreshBotanicals",
+        "description": "A sulfate-free facial cleanser infused with Lemon and Cucumber to gently cleanse, brighten, and refresh the skin while maintaining hydration.\n•\tCertified Organic by Ecocert Cosmos\n•\tBrightens & Evens Skin Tone\n•\tDeep Cleansing Without Stripping Skin\n•\tHydrates & Refreshes Skin\n•\tSupports a Healthy Skin Barrier\n",
+        "Skin Type": "For all skin types",
+        "Size": "100 ML | 3.38 FL OZ",
+        "categories": [
+            "cosmetics"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpBFoTTBnhdaQyuwT4zHoZDvOstq1GX8rFRlNL"
+        ],
+        "slug": "rb-brightening-facial-cleanser-with-lemon-&-cucumber",
+        "tags": null,
+        "basePrice": 19.99,
+        "comparePrice": 20.99,
+        "isActive": true,
+        "stock": 333,
+        "createdAt": "2025-11-12T14:20:36.203Z",
+        "updatedAt": "2025-11-12T14:18:56.359Z"
+    },
+    {
+        "name": "Fragrance - Free Facial Cleanser\nWith Cornflower & Cucumber",
+        "brand": "refreshBotanicals",
+        "description": "An ultra-gentle fragrance-free cleanser infused with Cornflower and Cucumber to cleanse, hydrate, and refresh sensitive skin without irritation.\n•\tCertified Organic by Ecocert Cosmos\n•\tFragrance-Free & Ideal for Sensitive Skin\n•\tGently Cleanses Without Stripping Moisture\n•\tHydrates & Soothes Skin\n•\tMaintains Skin Barrier & pH Balance\n",
+        "Skin Type": "For all skin types",
+        "Size": "100 ML | 3.38 FL OZ",
+        "categories": [
+            "cosmetics"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpBFoTTBnhdaQyuwT4zHoZDvOstq1GX8rFRlNL"
+        ],
+        "slug": "rb-fragrance-free-facial-cleanser-with-cornflower-&-cucumber",
+        "tags": null,
+        "basePrice": 19.99,
+        "comparePrice": 20.99,
+        "isActive": true,
+        "stock": 333,
+        "createdAt": "2025-11-12T14:20:36.203Z",
+        "updatedAt": "2025-11-12T14:18:56.359Z"
+    },
+    {
+        "name": "Oil Balancing Facial Moisturizer\nWith Aloe & Cucumber",
+        "brand": "refreshBotanicals",
+        "description": "An ultra-gentle fragrance-free cleanser infused with Cornflower and Cucumber to cleanse, hydrate, and refresh sensitive skin without irritation.\n•\tCertified Organic by Ecocert Cosmos\n•\tFragrance-Free & Ideal for Sensitive Skin\n•\tGently Cleanses Without Stripping Moisture\n•\tHydrates & Soothes Skin\n•\tMaintains Skin Barrier & pH Balance\n",
+        "Skin Type": "Oily & Combination",
+        "Size": "50 ML | 1.69 FL OZ",
+        "categories": [
+            "cosmetics"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpBFoTTBnhdaQyuwT4zHoZDvOstq1GX8rFRlNL"
+        ],
+        "slug": "rb-oil-balancing-facial-moisturizer-with-aloe-&-cucumber",
+        "tags": null,
+        "basePrice": 24.99,
+        "comparePrice": 25.99,
+        "isActive": true,
+        "stock": 333,
+        "createdAt": "2025-11-12T14:20:36.203Z",
+        "updatedAt": "2025-11-12T14:18:56.359Z"
+    },
+    {
+        "name": "Hydrating Facial Moisturizer\nWith Cornflower & Cucumber",
+        "brand": "refreshBotanicals",
+        "description": "Ultra-hydrating facial moisturizer infused with Cornflower and Cucumber to deeply nourish, refresh, and restore skin’s natural moisture barrier.\n•\tCertified Organic by Ecocert Cosmos\n•\tDeep Hydration Without Greasiness\n•\tSoothes & Refreshes Dry, Tired Skin\n•\tStrengthens Skin Barrier & Locks in Moisture\n•\tLightweight, Fast-Absorbing & Non-Comedogenic\n",
+        "Skin Type": "Dry & Sensitive Skin",
+        "Size": "50 ML | 1.69 FL OZ",
+        "categories": [
+            "cosmetics"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpBFoTTBnhdaQyuwT4zHoZDvOstq1GX8rFRlNL"
+        ],
+        "slug": "rb-hydrating-facial-moisturizer-with-cornflower-&cucumber",
+        "tags": null,
+        "basePrice": 24.99,
+        "comparePrice": 25.99,
+        "isActive": true,
+        "stock": 333,
+        "createdAt": "2025-11-12T14:20:36.203Z",
+        "updatedAt": "2025-11-12T14:18:56.359Z"
+    },
+    {
+        "name": "Fragrance-free Hydrating Facial Moisturizer\nWith Cornflower & Cucumber",
+        "brand": "refreshBotanicals",
+        "description": "Ultra-gentle fragrance-free moisturizer enriched with Cornflower and Cucumber to deeply hydrate and soothe sensitive skin..\n•\tCertified Organic by Ecocert Cosmos\n•\tFragrance-Free & Gentle for Sensitive Skin\n•\tDeep Hydration Without Greasiness\n•\tStrengthens Skin Barrier & Locks in Hydration\n•\tLightweight, Non-Comedogenic & Fast-Absorbing\n",
+        "Skin Type": "Dry & Sensitive Skin",
+        "Size": "50 ML | 1.69 FL OZ",
+        "categories": [
+            "cosmetics"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpBFoTTBnhdaQyuwT4zHoZDvOstq1GX8rFRlNL"
+        ],
+        "slug": "rb-fragrance-free-hydrating-facial-moisturizer-with-cornflower-&-cucumber",
+        "tags": null,
+        "basePrice": 24.99,
+        "comparePrice": 25.99,
+        "isActive": true,
+        "stock": 333,
+        "createdAt": "2025-11-12T14:20:36.203Z",
+        "updatedAt": "2025-11-12T14:18:56.359Z"
+    },
+    {
+        "name": "Glow-boosting Facial Moisturizer\nWith Rose & Cucumber",
+        "brand": "refreshBotanicals",
+        "description": "A lightweight moisturizer infused with Rose and Cucumber to hydrate, brighten, and enhance skin’s natural glow.\n•\tCertified Organic by Ecocert Cosmos\n•\tBoosts Skin Radiance & Natural Glow\n•\tDeeply Hydrates & Softens Skin\n•\tEvens Skin Tone & Improves Texture\n•\tLightweight, Non-Greasy & Fast-Absorbing\n",
+        "Skin Type": "All Skin",
+        "Size": "50 ML | 1.69 FL OZ",
+        "categories": [
+            "cosmetics"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpBFoTTBnhdaQyuwT4zHoZDvOstq1GX8rFRlNL"
+        ],
+        "slug": "rb-glow-boosting-facial-moisturizer-with-rose-&-cucumber",
+        "tags": null,
+        "basePrice": 24.99,
+        "comparePrice": 25.99,
+        "isActive": true,
+        "stock": 333,
+        "createdAt": "2025-11-12T14:20:36.203Z",
+        "updatedAt": "2025-11-12T14:18:56.359Z"
+    },
+    {
+        "name": "Calming Facial Moisturizer\nWith Lavender & Cucumber",
+        "brand": "refreshBotanicals",
+        "description": "A ultra-soothing moisturizer infused with Lavender and Cucumber to hydrate, calm sensitive skin, and restore balance.\n•\tCertified Organic by Ecocert Cosmos\n•\tCalms Redness & Soothes Sensitive Skin\n•\tDeep Hydration Without Greasiness\n•\tStrengthens Skin Barrier & Locks in Moisture\n•\tLightweight, Non-Comedogenic & Fast Absorbing\n",
+        "Skin Type": "Dry & Sensitive skin",
+        "Size": "50 ML | 1.69 FL OZ",
+        "categories": [
+            "cosmetics"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpBFoTTBnhdaQyuwT4zHoZDvOstq1GX8rFRlNL"
+        ],
+        "slug": "rb-calming-facial-moisturizer-with-lavender-&-cucumber",
+        "tags": null,
+        "basePrice": 24.99,
+        "comparePrice": 25.99,
+        "isActive": true,
+        "stock": 333,
+        "createdAt": "2025-11-12T14:20:36.203Z",
+        "updatedAt": "2025-11-12T14:18:56.359Z"
+    },
+    {
+        "name": "Ultra Soothing Hydrating Gel\nOrganic Aloe Vera & Hyaluronic Acid",
+        "brand": "refreshBotanicals",
+        "description": "A lightweight, certified organic gel that deeply hydrates, soothes irritation, and restores skin balance with Aloe, Green Tea, and Hyaluronic Acid.\n•\tInstant & Long-Lasting Hydration\n•\tSoothes Redness & Irritation\n•\tLightweight & Non-Sticky Formula\n•\tRich in Antioxidants & Probiotics\n•\tMulti-Purpose Skincare Essential\n",
+        "Skin Type": "All Skin",
+        "Size": "100 ML | 3.38 FL OZ",
+        "categories": [
+            "cosmetics"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpBFoTTBnhdaQyuwT4zHoZDvOstq1GX8rFRlNL"
+        ],
+        "slug": "rb-ultra-soothing-hydrating-gel-organic-aloe-vera-&-hyaluronic-acid",
+        "tags": null,
+        "basePrice": 13.99,
+        "comparePrice": 14.99,
+        "isActive": true,
+        "stock": 333,
+        "createdAt": "2025-11-12T14:20:36.203Z",
+        "updatedAt": "2025-11-12T14:18:56.359Z"
+    },
+    {
+        "name": "Advanced 7X Eye Serum\nWith Vitamin C & Hyaluronic Acid",
+        "brand": "refreshBotanicals",
+        "description": "Fast-absorbing serum with 300X Vitamin C & Hyaluronic Acid to reduce fine lines, crow’s feet & puffiness for a youthful glow.\n•\tBrightens dark circles\n•\tSmooths under eye puffiness & fine lines\n•\tStrenghten sensitive eye area\n•\tWorks on all skin types\n",
+        "Skin Type": "All Skin",
+        "Size": "30 ML | 1.01 FL OZ",
+        "categories": [
+            "cosmetics"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpBFoTTBnhdaQyuwT4zHoZDvOstq1GX8rFRlNL"
+        ],
+        "slug": "rb-advanced-7x-eye-serum-with-vitamin-c-&-hyaluronic-acid",
+        "tags": null,
+        "basePrice": 48.99,
+        "comparePrice": 49.99,
+        "isActive": true,
+        "stock": 333,
+        "createdAt": "2025-11-12T14:20:36.203Z",
+        "updatedAt": "2025-11-12T14:18:56.359Z"
+    },
+    {
+        "name": "Brightening Facial Moisturizer\nWith Neroli & Grapefruit",
+        "brand": "refreshBotanicals",
+        "description": "An antioxidant-rich moisturizer that brightens, hydrates, and evens out skin tone.\nKey Consumer-Focused Benefits:\n•\tCertified Organic by Ecocert Cosmos\n•\tBrightens & Evens Skin Tone\n•\tReduces dark spots, hyperpigmentation, and dullness\n•\tDeeply Hydrates Without Greasiness\n•\tLightweight, Fast-Absorbing & Non-Comedogenic\n",
+        "Skin Type": "All Skin",
+        "Size": "50 ML | 1.69 FL OZ",
+        "categories": [
+            "cosmetics"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpBFoTTBnhdaQyuwT4zHoZDvOstq1GX8rFRlNL"
+        ],
+        "slug": "rb-brightening-facial-moisturizer-with-neroli-&-grapefruit",
+        "tags": null,
+        "basePrice": 24.99,
+        "comparePrice": 25.99,
+        "isActive": true,
+        "stock": 333,
+        "createdAt": "2025-11-12T14:20:36.203Z"
+    },
+    {
+        "name": "Jojoba Oil\nCold Pressed & Certified Organic",
+        "brand": "refreshBotanicals",
+        "description": "Pure, certified organic jojoba oil that hydrates, balances, and restores for healthy skin, hair, and scalp.\n•\t100% Pure & Certified Organic\n•\tClosest to Skin’s Natural Sebum\n•\tMultipurpose Hydration for Skin & Hair\n•\tFast-Absorbing & Non-Greasy\n•\tCold-Pressed for Maximum Nutrients\n",
+        "Skin Type": "All Skin",
+        "Size": "590 ML | 3.04 FL OZ",
+        "categories": [
+            "cosmetics"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpBFoTTBnhdaQyuwT4zHoZDvOstq1GX8rFRlNL"
+        ],
+        "slug": "rb-jojoba-oil-cold-pressed-&-certified-organic",
+        "tags": null,
+        "basePrice": 21.99,
+        "comparePrice": 22.99,
+        "isActive": true,
+        "stock": 333,
+        "createdAt": "2025-11-12T14:20:36.203Z"
+    },
+    {
+        "name": "Argan Oil\nCold Pressed & Certified Organic",
+        "brand": "refreshBotanicals",
+        "description": "100% pure, cold-pressed, and certified organic Argan oil that deeply hydrates, restores, and protects skin, hair, and nails.\nKey Consumer-Focused Benefits:\n•\tCertified Organic & Cold-Pressed\n•\tDeeply Hydrates & Nourishes\n•\tStrengthens Hair & Adds Shine\n•\tAnti-Aging & Skin Repair\n•\tLightweight & Non-Greasy\n\n",
+        "Skin Type": "All Skin",
+        "Size": "90 ML | 3.04 FL OZ",
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpBFoTTBnhdaQyuwT4zHoZDvOstq1GX8rFRlNL"
+        ],
+        "slug": "rb-argan-oil-cold-pressed-&-certified-organic",
+        "tags": null,
+        "basePrice": 23.99,
+        "comparePrice": 24.99,
+        "isActive": true,
+        "stock": 333,
+        "createdAt": "2025-11-12T14:20:36.203Z",
+        "updatedAt": "2025-11-12T14:18:56.359Z"
+    },
+    {
+        "name": "Glow-boosting MAGICAL Mask\nWith Pink Rose & French Pink Clay",
+        "brand": "refreshBotanicals",
+        "description": "A mineral-rich, certified natural clay mask that detoxifies, brightens, and nourishes for a radiant, youthful glow.\n•\tCertified Natural by Ecocert Cosmos\n•\tGently Detoxifies & Brightens Skin\n•\tRich in Antioxidants & Botanicals\n•\tBoosts Collagen & Skin Elasticity\n•\tMulti-Purpose – Can be used as a face mask, body wrap, or scrub.\n",
+        "Skin Type": "All Skin",
+        "Size": "150 GM | 5.29 OZ",
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpBFoTTBnhdaQyuwT4zHoZDvOstq1GX8rFRlNL"
+        ],
+        "slug": "rb-glow-boosting-magical-mask-with-pink-rose-&-french-pink-clay",
+        "tags": null,
+        "basePrice": 18.99,
+        "comparePrice": 19.99,
+        "isActive": true,
+        "stock": 333,
+        "createdAt": "2025-11-12T14:20:36.203Z",
+        "updatedAt": "2025-11-12T14:18:56.359Z"
+    },
+    {
+        "name": "Men Daily Active Moisturizer\nWith Rooibos Tea & Cucumber",
+        "brand": "refreshBotanicals",
+        "description": "A lightweight, highly natural daily moisturizer designed for active men, powered by Rooibos Tea and Cucumber to hydrate, refresh, and protect the skin all day long.\n•\tLong-Lasting Hydration & Skin Repair\n•\tLightweight & Fast-Absorbing Formula\n•\tDefends Against Environmental Stress\n•\tCucumber & Cornflower Cool & Refresh Skin\n•\tSubtle, Earthy Scent of Cedarwood & Vetiver.\n",
+        "Skin Type": "Oily skin",
+        "Size": "50 ML | 1.69 FL OZ",
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpBFoTTBnhdaQyuwT4zHoZDvOstq1GX8rFRlNL"
+        ],
+        "slug": "rb-men-daily-active-moisturizer-with-rooibos-tea-&-cucumber",
+        "tags": null,
+        "basePrice": 18.99,
+        "comparePrice": 19.99,
+        "isActive": true,
+        "stock": 333,
+        "createdAt": "2025-11-12T14:20:36.203Z",
+        "updatedAt": "2025-11-12T14:18:56.359Z"
+    },
+    {
+        "name": "Skin Brightening Combo",
+        "brand": "refreshBotanicals",
+        "description": "A powerful two-step organic skincare regimen formulated to cleanse, hydrate, and enhance natural radiance for a visibly brighter complexion.\n•\tCertified Organic & Clean Formula\n•\tBrightens & Evens Out Skin Tone\n•\tDeeply Hydrates Without Greasiness\n•\tAntioxidant-Powered for Skin Protection\n•\tGentle Yet Effective for Daily Use\n",
+        "Skin Type": "Dry & Sensitive Skin and All Skin",
+        "Size": "100 ML | 3.38 FL OZ & 50 ML | 1.69 FL OZ",
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpBFoTTBnhdaQyuwT4zHoZDvOstq1GX8rFRlNL"
+        ],
+        "slug": "rb-skin-brightening-combo",
+        "tags": null,
+        "basePrice": 54.99,
+        "comparePrice": 69.99,
+        "isActive": true,
+        "stock": 333,
+        "createdAt": "2025-11-12T14:20:36.203Z",
+        "updatedAt": "2025-11-12T14:18:56.359Z"
+    },
+    {
+        "name": "Skin Hydrating Combo",
+        "brand": "refreshBotanicals",
+        "description": "A three-step organic skincare routine featuring Hydrating Facial Cleanser, Hydrating Facial Moisturiser, and Restoring Night Serum, designed to cleanse, deeply hydrate, and nourish skin for a healthy, dewy glow.\n•\tCertified Organic & Free from Harsh Chemicals\n•\tHydrates & Locks in Moisture\n•\tStrengthens & Restores Skin Barrier\n•\tSmooths & Plumps Skin Overnight\n•\tLightweight, Fast-Absorbing & Non-Greasy\n",
+        "Skin Type": "Oily skin & Dry and sensetive",
+        "Size": "100 ML | 3.38 FL OZ & 50 ML | 1.69 FL OZ",
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpBFoTTBnhdaQyuwT4zHoZDvOstq1GX8rFRlNL"
+        ],
+        "slug": "rb-skin-hydrating-combo",
+        "tags": null,
+        "basePrice": 38.99,
+        "comparePrice": 39.99,
+        "isActive": true,
+        "stock": 333,
+        "createdAt": "2025-11-12T14:20:36.203Z",
+        "updatedAt": "2025-11-12T14:18:56.359Z"
+    },
+    {
+        "name": "Glow Boosting Combo",
+        "brand": "refreshBotanicals",
+        "description": "A three-step glow-enhancing skincare regimen featuring Glow Boosting Magical Mask, Organic Rose Water, and Glow Boosting Facial Moisturiser, formulated to cleanse, brighten, and deeply hydrate for a natural, radiant glow.\n•\tCertified Natural & Organic Ingredients\n•\tBoosts Radiance & Evens Skin Tone\n•\tHydrates & Nourishes Without Greasiness\n•\tDetoxifies & Purifies Skin\n•\tGentle Yet Effective for All Skin Types\n",
+        "Skin Type": "All Skin",
+        "Size": "90 ML | 3.04 FL OZ, 150 GM | 5.29 OZ & 50 ML | 1.69 FL OZ",
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpBFoTTBnhdaQyuwT4zHoZDvOstq1GX8rFRlNL"
+        ],
+        "slug": "rb-glow-boosing-combo",
+        "tags": null,
+        "basePrice": 53.99,
+        "comparePrice": 64.97,
+        "isActive": true,
+        "stock": 333,
+        "createdAt": "2025-11-12T14:20:36.203Z",
+        "updatedAt": "2025-11-12T14:18:56.359Z"
+    },
+    {
+        "name": "Radiant Glow Duo",
+        "brand": "refreshBotanicals",
+        "description": "A powerful two-step organic skincare ritual featuring Glow Boosting Magical Mask and Organic Rose Water, designed to detox, brighten, and restore a natural, healthy glow.\n•\tCertified Organic & 100% Clean Formula\n•\tDeep Cleansing & Brightening\n•\tEvens Skin Tone & Boosts Glow\n•\tTightens Pores & Refreshes Skin\n•\tHydrates & Soothes Without Dryness\n",
+        "Skin Type": "All Skin",
+        "Size": "90 ML | 3.04 FL OZ & 150 GM | 5.29 OZ",
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpBFoTTBnhdaQyuwT4zHoZDvOstq1GX8rFRlNL"
+        ],
+        "slug": "rb-radiant-glow-combo",
+        "tags": null,
+        "basePrice": 31.99,
+        "comparePrice": 38.98,
+        "isActive": true,
+        "stock": 333,
+        "createdAt": "2025-11-12T14:20:36.203Z",
+        "updatedAt": "2025-11-12T14:18:56.359Z"
+    },
+    {
+        "name": "Oil Balancing Combo",
+        "brand": "refreshBotanicals",
+        "description": "AA three-step certified organic skincare routine featuring Oil Balancing Cleanser, Oil Balancing Facial Moisturiser, and Refreshing Magical Mask, designed to control excess oil, purify pores, and restore skin balance for a clear and healthy complexion.\nCertified Organic & Free from Harsh Chemicals\nControls Oil & Reduces Breakouts\nDeep Cleansing & Detoxification\nLightweight Hydration Without Greasiness\nPore Refining & Mattifying Effect\n",
+        "Skin Type": "Oily & Acne-prone skin, All Skin & Oily & Combination",
+        "Size": "100 ML | 3.38 FL OZ, 50 ML | 1.69 FL OZ & 200 GM | 7.05 OZ\n\n",
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpBFoTTBnhdaQyuwT4zHoZDvOstq1GX8rFRlNL"
+        ],
+        "slug": "rb-oil-balancing-combo",
+        "tags": null,
+        "basePrice": 48.99,
+        "comparePrice": 65.97,
+        "isActive": true,
+        "stock": 333,
+        "createdAt": "2025-11-12T14:20:36.203Z",
+        "updatedAt": "2025-11-12T14:18:56.359Z"
+    },
+    {
+        "name": "Men Hydrating Combo",
+        "brand": "refreshBotanicals",
+        "description": "A simple yet powerful two-step skincare system featuring Hydrating Facial Wash and Hydrating Facial Moisturiser, designed to deeply cleanse, replenish moisture, and keep skin hydrated, fresh, and healthy all day.\n•\tDeep Hydration & Skin Barrier Protection\n•\tGently Cleanses Without Stripping Skin\n•\tFast-Absorbing & Lightweight Moisture\n•\tCalms & Soothes Post-Shave Irritation\n•\tNaturally Refreshing & Subtle Scent\n",
+        "Skin Type": "Oily skin",
+        "Size": "100 ML | 3.38 FL OZ & 50 ML| 1.69 FL OZ\n\n",
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpBFoTTBnhdaQyuwT4zHoZDvOstq1GX8rFRlNL"
+        ],
+        "slug": "rb-men-hydrating-combo",
+        "tags": null,
+        "basePrice": 30.99,
+        "comparePrice": 37.99,
+        "isActive": true,
+        "stock": 333,
+        "createdAt": "2025-11-12T14:20:36.203Z",
+        "updatedAt": "2025-11-12T14:18:56.359Z"
+    },
+    {
+        "name": "Men's Detox Combo",
+        "brand": "refreshBotanicals",
+        "description": "A powerful two-step skincare system featuring Detox Facial Wash and Daily Active Moisturiser, designed to deeply cleanse, remove excess oil, and provide long-lasting hydration for healthier, refreshed skin.\n•\tDeep Cleansing & Detoxification\n•\tControls Oil & Fights Breakouts\n•\tLightweight & Fast-Absorbing Moisture\n•\tProtects Skin from Environmental Stress\n•\tNaturally Refreshing & Energizing Scent\n",
+        "Skin Type": "Oily skin",
+        "Size": "100 ML | 3.38 FL OZ & 50 ML | 1.69 FL OZ\n\n",
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpBFoTTBnhdaQyuwT4zHoZDvOstq1GX8rFRlNL"
+        ],
+        "slug": "rb-men's-detox-combo",
+        "tags": null,
+        "basePrice": 30.99,
+        "comparePrice": 37.99,
+        "isActive": true,
+        "stock": 333,
+        "createdAt": "2025-11-12T14:20:36.203Z",
+        "updatedAt": "2025-11-12T14:18:56.359Z"
+    },
+    {
+        "id": "4ec1c616-e45e-44e1-9b9b-a3e4f17647bd",
+        "name": "Shivani's Butter Chicken Sauce",
+        "brand": "Shivani",
+        "description": null,
+        "categories": [],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpDPwHuEeu3q8jEe6rmlZJXYw5MR2cyWPaGiBF"
+        ],
+        "slug": "shivani-butter-chicken-sauce-base-265g",
+        "tags": null,
+        "basePrice": 9.99,
+        "comparePrice": 10.99,
+        "weight": "265g",
+        "isActive": true,
+        "stock": 267,
+        "createdAt": "2025-11-12T04:18:15.354Z",
+        "updatedAt": "2025-11-18T07:04:22.447Z"
+    },
+    {
+        "id": "4c3d6a3f-1b3a-499d-85b9-014133b82dc8",
+        "brand": "Ingrano",
+        "name": "Organic Mix Dal",
+        "description": null,
+        "categories": [
+            "grocery"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpuLdITAcVyI6GD7KXLncBW8OoaT4kMNAj5ePb"
+        ],
+        "slug": "ingrano-mix-dal-2lb",
+        "tags": [
+            "100% Organic"
+        ],
+        "basePrice": 6.99,
+        "comparePrice": 7.99,
+        "weight": "2lb",
+        "isActive": true,
+        "stock": 327,
+        "createdAt": "2025-11-12T12:44:18.066Z",
+        "updatedAt": "2025-11-18T07:04:22.447Z"
+    },
+    {
+        "id": "484eb1ba-5a6a-4a4e-bffc-ba3fdca4abda",
+        "brand": "Shivani",
+        "name": "Shivani's Paneer ",
+        "description": null,
+        "categories": [
+            "dairy-products"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpYnLyeFHzbmCvISJFXfj84V2cTl9dq6wHgMP1"
+        ],
+        "slug": "shivani-paneer-300g",
+        "tags": null,
+        "basePrice": 5.49,
+        "comparePrice": 6.49,
+        "isActive": true,
+        "stock": 220,
+        "createdAt": "2025-11-12T01:52:33.897Z",
+        "updatedAt": "2025-11-12T01:42:46.542Z"
+    },
+    {
+        "id": "406e15fb-9912-48ae-9acb-59dc273b0274",
+        "brand": "Ingrano",
+        "name": "Organic Cinnamon Powder",
+        "description": "Ingrano Organic Cassia Cinnamon Powder: Elevate Your Recipes Naturally\n\nIngrano Organic Cassia Cinnamon Powder, the perfect way to add a burst of natural flavor to your favorite recipes. Sourced from the finest organic cassia cinnamon bark, our premium-quality powder is carefully ground to preserve its rich aroma and distinct flavor profile. Whether you're baking, cooking, or brewing, our Organic Cassia Cinnamon Powder is sure to elevate your culinary creations to new heights.\n•    Pure and Natural: Made from 100% organic cassia cinnamon bark, free from additives and preservatives.\n•    Rich Aroma: Our cinnamon powder boasts a rich, aromatic flavor that enhances the taste of your dishes.\n•    Versatile Ingredient: Use in baking, cooking, beverages, and more for a delicious and fragrant addition to your recipes.\n•    Convenient Packaging: Comes in a resealable pouch for easy storage and freshness.\n𝗜𝗡𝗚𝗥𝗘𝗗𝗜𝗘𝗡𝗧𝗦:\nOrganic Cinnamon Powder\nALLERGEN INFORMATION:\nPackedin A Facility That Also handles Wheat, Barley(Gluten), Mustard, and Sesame.\n𝗦𝗛𝗘𝗟𝗙𝗟𝗜𝗙𝗘\n12 Months\n𝗖𝗢𝗨𝗡𝗧𝗥𝗬 𝗢𝗙 𝗢𝗥𝗜𝗚𝗜𝗡:\nIndia\n",
+        "categories": [
+            "grocery"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1Nqpcp5AXENSgGZJqFIilteVW0YwLO3mMCvsn6Ah"
+        ],
+        "slug": "ingrano-cinnamon-powder-100g",
+        "tags": [
+            "100% Organic"
+        ],
+        "basePrice": 4.99,
+        "comparePrice": 6.99,
+        "isActive": true,
+        "weight": "100g",
+        "stock": 123,
+        "createdAt": "2025-11-12T12:46:21.032Z",
+        "updatedAt": "2025-11-18T07:04:22.447Z"
+    },
+    {
+        "id": "30ce4686-2c0b-4362-9df3-88da975275e1",
+        "brand": "Ingrano",
+        "name": "Coriander Powder",
+        "description": "Ingrano Organic Coriander Powder - Pure and Fragrant Spice for Flavorful Cooking and Health Benefits\nExperience the delightful flavor and numerous health benefits of Ingrano Organic Coriander Powder, a pure and fragrant spice that enhances both the taste of your dishes and your well-being. Sourced from the finest organic coriander seeds, our powder is a testament to quality and purity.\nCoriander is celebrated for its antioxidant properties and its ability to aid digestion, making it a valuable addition to your daily diet. Our organic coriander powder is free from additives and preservatives, ensuring that you receive only the purest and most potent form of this beneficial spice.\nElevate the flavor and aroma of your culinary creations with the warm, citrusy notes of Ingrano Organic Coriander Powder. From savory curries and marinades to refreshing chutneys and salads, the possibilities are endless with this versatile spice.\n•    Pure and Fragrant: Made from the finest organic coriander seeds, free from additives and preservatives.\n•    Health Benefits: Rich in antioxidants and aids digestion for overall well-being..\n•    Premium Quality: Packed with care to preserve freshness and potency.\n•    Certified Organic: Ensures the highest standards of purity and quality.\n•    Customer Satisfaction Guaranteed: Backed by our commitment to excellence and your well-being.\n𝗜𝗡𝗚𝗥𝗘𝗗𝗜𝗘𝗡𝗧𝗦:\nOrganic Ginger Powder\nALLERGEN INFORMATION:\nPacked in A Facility That Also handles Wheat, Barley (Gluten), Mustard, and Sesame.\n𝗦𝗛𝗘𝗟𝗙 𝗟𝗜𝗙𝗘\n12 Months\n𝗖𝗢𝗨𝗡𝗧𝗥𝗬 𝗢𝗙 𝗢𝗥𝗜𝗚𝗜𝗡:\nIndia\n",
+        "categories": [
+            "grocery"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqppZxAvYXy1j3uSOKWTUtr4zYqcHbefFnG5yDX"
+        ],
+        "slug": "ingrano-coriander-powder-100g",
+        "tags": null,
+        "basePrice": 4.99,
+        "comparePrice": 5.5,
+        "isActive": true,
+        "stock": 100,
+        "createdAt": "2025-11-12T01:13:16.893Z",
+        "updatedAt": "2025-11-18T07:04:22.447Z"
+    },
+    {
+        "id": "1e347cd3-b695-41ba-a475-ad2aaa6ebc7f",
+        "brand": "Ingrano",
+        "name": "Organic Black Lentils Whole",
+        "description": null,
+        "categories": [
+            "grocery"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqphYzauwP723OPEDVHzRIteGwr0QauAlobTBmW"
+        ],
+        "slug": "ingrano-black-lentils-whole-2lb",
+        "tags": null,
+        "basePrice": 6.99,
+        "comparePrice": 7.99,
+        "isActive": true,
+        "stock": 321,
+        "weight": "2lb",
+        "createdAt": "2025-11-12T13:26:07.434Z",
+        "updatedAt": "2025-11-18T07:04:22.447Z"
+    },
+    {
+        "id": "13c58b2b-98b5-4b6d-8d21-8786f5542999",
+        "brand": "Ingrano",
+        "name": "Organic Besan Chickpea Flour",
+        "description": null,
+        "categories": [
+            "grocery"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1Nqp3IbbTTCBfSWdEQUe6wpaKjnRczDsMkNmbrqo"
+        ],
+        "slug": "ingrano-besan-chickpea-flour-2lb",
+        "tags": null,
+        "basePrice": 6.99,
+        "comparePrice": 7.99,
+        "isActive": true,
+        "weight": "2lb",
+        "stock": 203,
+        "createdAt": "2025-11-12T01:42:42.051Z",
+        "updatedAt": "2025-11-18T07:04:22.447Z"
+    },
+    {
+        "id": "1245ec69-aba4-4a51-98f3-e5c1f94c4ac7",
+        "brand": "Shivani",
+        "name": "Shivani's Chickpea Sauce",
+        "description": null,
+        "categories": [],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpTOjfOUGse1gNjWqcrYCwA9tkDI3ZKlhbufio"
+        ],
+        "slug": "shivani-chickpea-sauce-base-265g",
+        "tags": null,
+        "basePrice": 9.99,
+        "comparePrice": 10.99,
+        "weight": "265g",
+        "isActive": true,
+        "stock": 109,
+        "createdAt": "2025-11-12T04:20:28.184Z",
+        "updatedAt": "2025-11-18T07:04:22.447Z"
+    },
+    {
+        "id": "0b6f5d2d-beda-4409-b32e-c63015c0e204",
+        "brand": "Ingrano",
+        "name": "Kesar Mango Pulp",
+        "description": "Experience the vibrant taste of ripe Kesar mangoes with our Unsweetened Kesar Mango Pulp. Handpicked at peak ripeness, each spoonful of this luscious pulp brings you the authentic flavor of the finest mangoes, without any added sugars or artificial flavors.This pulp captures the essence of the fruit in its purest form. Whether you're blending it into smoothies, creating delectable desserts, or simply enjoying it on its own, this pulp promises a burst of mango goodness in every bite.\n\n* Pure and Authentic: Made solely from handpicked Kesar mangoes, our pulp retains the natural sweetness and aroma of the fruit, ensuring an authentic mango experience.\n* Versatile Usage: Elevate your culinary creations by incorporating our unsweetened mango pulp into a variety of recipes, from smoothies and shakes to cakes and cocktails.\n* Convenient Packaging: Packaged for freshness and convenience, our unsweetened Kesar Mango Pulp is ready to use whenever inspiration strikes.\n* Health Conscious: With no added sugars or artificial additives, our pulp offers a guilt-free indulgence for mango lovers seeking a healthier option.\n\n𝗜𝗡𝗚𝗥𝗘𝗗𝗜𝗘𝗡𝗧𝗦:\nKesar Mango Pulp\n\n𝗦𝗛𝗘𝗟𝗙 𝗟𝗜𝗙𝗘:\n12 months\n\n𝗗𝗜𝗥𝗘𝗖𝗧𝗜𝗢𝗡 𝗢𝗙 𝗨𝗦𝗘:\nSimply open the pack and scoop out the desired amount of unsweetened Kesar Mango Pulp. Use it to enhance the flavor of your favorite recipes, or enjoy it straight from the pack as a delicious and healthy snack.\n\n𝗖𝗢𝗨𝗡𝗧𝗥𝗬 𝗢𝗙 𝗢𝗥𝗜𝗚𝗜𝗡:\nIndia",
+        "categories": [
+            "grocery"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpTpWIzMse1gNjWqcrYCwA9tkDI3ZKlhbufiov",
+            "https://wbivt4l2g0.ufs.sh/f/SrDzLGdzjVMawycdNRDLwkXBhqzytYiInaOcpWGFNZuAE5gU",
+            "https://wbivt4l2g0.ufs.sh/f/SrDzLGdzjVMachwVKQLSPRHQUm75i84o2DzW3jdYgOkuNMfb"
+        ],
+        "slug": "ingrano-mango-pulp",
+        "tags": [
+            "Unsweetened"
+        ],
+        "basePrice": 4.99,
+        "comparePrice": 5.99,
+        "isActive": true,
+        "stock": 88,
+        "createdAt": "2025-11-13T13:36:17.790Z",
+        "updatedAt": "2025-12-24T11:57:47.287Z"
+    },
+    {
+        "id": "05ccf901-51ff-4c53-a5bc-3f9cad820c44",
+        "brand": "Refresh Botanicals",
+        "name": "Refresh Botanicals Argan Oil",
+        "description": null,
+        "categories": [
+            "cosmetics",
+            "oils"
+        ],
+        "currency": "CAD",
+        "images": [
+            "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpKtEZxT6MZYo5KphUf8AVzw14IOnt7PEkiCJR"
+        ],
+        "slug": "rb-argan-oil",
+        "tags": [
+            "Certified-Organic",
+            "Cold-Pressed"
+        ],
+        "basePrice": 23.99,
+        "comparePrice": 24.99,
+        "isActive": true,
+        "stock": 137,
+        "createdAt": "2025-11-12T04:27:53.533Z",
+        "updatedAt": "2025-11-12T04:26:09.474Z"
+    }
+]

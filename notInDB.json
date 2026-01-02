@@ -1,0 +1,108 @@
+[
+     {
+    "id": "4b337464-70ca-412f-bd77-f1f52c70d61c",
+    "description": "Sukh Cookie Crunch Delight Protein Bar 50g",
+    "categories": [
+      "grocery",
+      "bars"
+    ],
+    "currency": "CAD",
+    "images": [
+      "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpuYxPdjcVyI6GD7KXLncBW8OoaT4kMNAj5ePb"
+    ],
+    "slug": "ingrano-sukh-cookie-crunch-delight-protein-bar-50g",
+    "tags": [
+      "15g Protein"
+    ],
+    "basePrice": 2.99,
+    "comparePrice": 3.5,
+    "isActive": false,
+    "stock": 150,
+    "createdAt": "2025-11-12T15:55:39.350Z",
+    "updatedAt": "2025-11-18T22:06:51.506Z"
+  },
+
+  {
+    "id": "ee74762d-c0de-4358-8dd3-89a52044adb3",
+    "name": "Sukh Jeera Cookies",
+    "description": null,
+    "categories": [],
+    "currency": "CAD",
+    "images": [
+      "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpwBhvZfzMQAgamjX75KELlCrD9tJbZ8p4kIWi"
+    ],
+    "slug": "ingrano-sukh-jeera-cookies-120g",
+    "tags": [],
+    "basePrice": 4.99,
+    "comparePrice": 5.99,
+    "isActive": true,
+    "stock": 0,
+    "createdAt": "2025-11-13T12:38:05.650Z",
+    "updatedAt": "2025-11-19T18:06:51.506Z"
+  },
+
+  {
+    "id": "bad43a8a-3785-4ba4-a94a-1b9ac59a3c87",
+    "description": "Sukh Protein Bar 50g",
+    "categories": [
+      "grocery",
+      "bars"
+    ],
+    "currency": "CAD",
+    "images": [
+      "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpMYbf3N9xpXPa4HDG6ziLgUNRKfEvYmeubrOF"
+    ],
+    "slug": "ingrano-sukh-choco-orange-protein-bar",
+    "tags": [
+      "15g Protein"
+    ],
+    "basePrice": 2.99,
+    "comparePrice": 3.5,
+    "isActive": true,
+    "stock": 100,
+    "createdAt": "2025-11-12T00:51:41.797Z",
+    "updatedAt": "2025-11-18T07:06:51.506Z"
+  },
+
+  {
+    "id": "505a1dff-8927-495f-91d0-965ff8cb5959",
+    "description": "Sukh Choco Almond Bliss 50g",
+    "categories": [
+      "grocery",
+      "bars"
+    ],
+    "currency": "CAD",
+    "images": [
+      "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1Nqp3BezkaCBfSWdEQUe6wpaKjnRczDsMkNmbrqo"
+    ],
+    "slug": "ingrano-sukh-choco-almond-bliss-protein-bar-50g",
+    "tags": [
+      "15g Protein"
+    ],
+    "basePrice": 2.99,
+    "comparePrice": 3.5,
+    "isActive": true,
+    "stock": 131,
+    "createdAt": "2025-11-12T01:00:09.354Z",
+    "updatedAt": "2025-12-26T06:15:37.379Z"
+  },
+
+    {
+    "id": "b5a902d3-3bb3-48d6-847a-ab3274517e2c",
+    "description": null,
+    "categories": [],
+    "currency": "CAD",
+    "images": [
+      "https://wtl8ah2e7d.ufs.sh/f/J8Z1WODK1NqpHCbteGrtaWiy7cdoSsPfqlXuO9YVpnBbKj2D"
+    ],
+    "slug": "ingrano-ragi-cookies-120g",
+    "tags": [],
+    "basePrice": 4.99,
+    "comparePrice": 5.99,
+    "isActive": true,
+    "stock": 240,
+    "createdAt": "2025-11-12T12:53:11.811Z",
+    "updatedAt": "2025-11-18T07:06:51.506Z"
+  }
+
+]

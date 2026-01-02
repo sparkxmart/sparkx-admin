@@ -25,6 +25,7 @@
   },
   "devDependencies": {
     "@types/node": "^20.x",
+    "@types/pg": "^8.16.0",
     "@types/react": "^19.x",
     "@types/react-dom": "^19.x",
     "@vitejs/plugin-react": "^4.x",
